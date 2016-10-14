@@ -26,6 +26,7 @@
 
 ## Смирнов Сергей
 [Электронный магазин](https://github.com/Sergei-Smirnov-95/MyTelecom)
+
 1. TCP server linux
 2. TCP client windows
 3. UDP server windows
@@ -49,6 +50,7 @@
 
 ## Кричевский Владислав 
 [Система торгов](https://github.com/vkrich/MyTelecom)
+
 1. TCP server linux
 2. TCP client windows
 3. UDP server windows
