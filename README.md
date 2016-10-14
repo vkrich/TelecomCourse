@@ -55,3 +55,11 @@
 2. TCP client windows
 3. UDP server windows
 4. UDP client linux
+
+## Калугина Мария
+[Интернет-магазин]
+
+1. TCP server linux
+2. TCP client windows
+3. UDP server windows
+4. UDP client linux
