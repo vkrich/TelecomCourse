@@ -19,10 +19,10 @@
 ## Ольга Горемыкина
 Платёжная система
 
-1. TCP server linux
-2. TCP client windows
-3. UDP server windows
-4. UDP client linux
+1. [TCP-server Linux](https://github.com/lesscau/PaySystem_TCP-Server)
+2. [TCP-client Windows](https://github.com/lesscau/PaySystem_TCP-Client)
+3. [UDP-server Windows](https://github.com/lesscau/PaySystem_UDP-Server)
+4. [UDP-client Linux](https://github.com/lesscau/PaySystem_UDP-Client)
 
 ## Смирнов Сергей
 [Электронный магазин](https://github.com/Sergei-Smirnov-95/MyTelecom)
