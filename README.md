@@ -3,8 +3,8 @@
 ## Нагорнов Андрей
 [Рулетка](https://github.com/defex04/MyTelecom)
 
-1. [TCP server linux](https://github.com/defex04/MyTelecom/tree/master/TCP-Server-Linux)
-2. TCP client windows
+1. [TCP server linux](https://github.com/defex04/MyTelecom/tree/master/TCP-Linux/Server)
+2. [TCP client windows](https://github.com/defex04/MyTelecom/tree/master/TCP-Linux/Client)
 3. UDP server windows
 4. UDP client linux
 
