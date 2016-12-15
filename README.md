@@ -51,10 +51,10 @@
 ## Кричевский Владислав 
 [Система торгов](https://github.com/vkrich/MyTelecom)
 
-1. TCP server linux
-2. TCP client windows
+1. [TCP server linux](https://github.com/vkrich/TCP_Trade_Server)
+2. [TCP client linux](https://github.com/vkrich/TCP_Trade_Server)
 3. UDP server windows
-4. UDP client linux
+4. UDP client windows 
 
 ## Калугина Мария
 [Интернет-магазин]
